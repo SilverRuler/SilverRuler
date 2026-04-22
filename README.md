@@ -20,7 +20,7 @@
 - **Orchestration & DevOps:** k3s Kubernetes Cluster, Docker, Nginx, PM2
 
 ### 🧠 Sovereign AI & Data Science
-- **Local LLM:** Gemma 4, Dolphin 모델 미세조정(Finetuning) 및 VRAM 최적화
+- **Local LLM:** Gemma 4, Dolphin 모델 파인튜닝 및 VRAM 최적화
 - **Tools:** Ollama, Unsloth, GGUF 모델 커스텀
 - **Data Analysis:** 2021 Kaggle Coleridge Initiative (Show US the Data) Private LB 상위 15% 달성. CUDA 기반 가속 연산 및 대규모 데이터 처리 역량 보유
 
