@@ -31,7 +31,21 @@
 ### ⛓️ Blockchain (Main works at `@makewalletfirst`)
 - **Bitcoin Maximalist:** 비트코인 코어 프로토콜, 합의 알고리즘, UTXO 구조 심층 분석
 - **Forks & L2:** BitEver (Bitcoin 하드포크), EtherEver (ETC 하드포크), SolaEver
-- **Portal:** [EverChain](https://ever-chain.xyz) (통합 블록체인 리소스 포털 - Nginx, Cloudflare 아키텍처)
+- **Portal:** [EverChain](https://ever-chain.xyz) (통합 블록체인 리소스 포털)
+
+## 📚 Academic Research & Publications
+
+### 🎓 Master's Thesis
+- **[Improving WPA2 Security through NFT-based Authentication](https://github.com/SilverRuler/N-WPA2---Security_Improvement_Technique_of_WPA2_through_NFT-Based_Authentication)**
+  - *Sogang University*
+  - NFT 기반 인증 메커니즘을 통한 WPA2 보안 프로토콜 개선 연구
+
+### 📄 Journal Papers
+- **International Journal:** 1 Paper (First Author)
+- **Domestic Journal:** 2 Papers (First Author), 1 Paper (Co-author)
+
+### 📜 Intellectual Property
+- **Registered Patent:** 1 건 등록 완료
 
 ## 📈 Stats & Activity
 
