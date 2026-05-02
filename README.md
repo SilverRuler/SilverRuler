@@ -43,6 +43,7 @@
 ### 📄 Journal Papers
 - **International Journal:** 1 Paper (First Author)
 - **Domestic Journal:** 2 Papers (First Author), 1 Paper (Co-author)
+- **Domestic Paper:** 1 Papers (First Author)
 
 ### 📜 Intellectual Property
 - **Registered Patent:** 1 건 등록 완료
