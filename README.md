@@ -28,7 +28,7 @@
 - **Network Security:** Tor, VPN (WireGuard, OpenVPN, ProtonVPN), P2P Protocols
 - **SSL/TLS:** 인증서 자동화 및 터널링 네트워크 구성
 
-### ⛓️ Blockchain (Main works at `@makewalletfirst`)
+### ⛓️ Blockchain (Main works at [`@makewalletfirst`](https://github.com/makewalletfirst))
 - **Bitcoin Maximalist:** 비트코인 코어 프로토콜, 합의 알고리즘, UTXO 구조 심층 분석
 - **Forks & L2:** BitEver (Bitcoin 하드포크), EtherEver (ETC 하드포크), SolaEver
 - **Portal:** [EverChain](https://ever-chain.xyz) (통합 블록체인 리소스 포털)
