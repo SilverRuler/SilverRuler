@@ -51,8 +51,8 @@
 ## 📈 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilverRuler&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&hide_rank=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilverRuler&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" />
+  <img src="https://github-readme-stats-mu-one-53.vercel.app/api?username=SilverRuler&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&hide_rank=true" />
+  <img src="https://github-readme-stats-mu-one-53.vercel.app/api/top-langs/?username=SilverRuler&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" />
 </p>
 
 ## 💡 Recent Focus
@@ -64,3 +64,7 @@
 
 ## 🔗 Contact & Links
 - **Portfolio:** [https://portfolio.silverruler.xyz](https://portfolio.silverruler.xyz)
+[![YouTube](https://img.shields.io/badge/YouTube-지만쫌-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@%EC%A7%80%EB%A7%8C%EC%AB%8C)
+[![GitHub](https://img.shields.io/badge/GitHub-SilverRuler-181717?logo=github&logoColor=white)](https://github.com/SilverRuler)
+[![Discord](https://img.shields.io/badge/Discord-지만쫌-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/dfSF58pzZB)
+[![Email](https://img.shields.io/badge/Email-makewalletfirst-EA4335?logo=gmail&logoColor=white)](mailto:makewalletfirst@gmail.com)
