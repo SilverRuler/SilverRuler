@@ -31,7 +31,7 @@
 
 ### ⛓️ Blockchain (Main works at [`@makewalletfirst`](https://github.com/makewalletfirst))
 - **Bitcoin Maximalist:** 비트코인 코어 프로토콜, 합의 알고리즘, UTXO 구조 심층 분석
-- **Forks & L2:** BitEver (Bitcoin 하드포크), EtherEver (ETC 하드포크), SolaEver
+- **Forks & L2:** BitEver (Bitcoin 하드포크) + LightningEver(LSP), EtherEver (ETH 하드포크) + ArbiEver(Nitro Rollup), SolaEver
 - **Portal:** [EverChain](https://ever-chain.xyz) (통합 블록체인 리소스 포털)
 
 ## 📚 Academic Research & Publications
