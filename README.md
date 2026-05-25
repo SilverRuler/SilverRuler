@@ -2,7 +2,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Systems-Engineer-blue?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Security-Engineer-red?style=for-the-badge&logo=security" />
+  <img src="https://img.shields.io/badge/Network-Engineer-green?style=for-the-badge&logo=cisco" />
+  <img src="https://img.shields.io/badge/Security-Engineer-red?style=for-the-badge&logo=wireguard" />
   <img src="https://img.shields.io/badge/Blockchain-Engineer-orange?style=for-the-badge&logo=bitcoin" />
 </div>
 
