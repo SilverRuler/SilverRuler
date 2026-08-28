@@ -62,7 +62,7 @@
 
 ## 💡 Recent Focus
 
-- ComfyUI + MiniMax R2V 영상 생성 파이프라인 운용 및 로컬(RTX 3060)·클라우드 GPU 하이브리드 오프로드 구조 실험
+- ComfyUI + 영상생성모델 파이프라인 운용 및 로컬(RTX 3060)·클라우드 GPU 하이브리드 오프로드 구조 실험
 - Ollama 다중 모델 운영 체계 정비, RAG 컨텍스트 길이 튜닝, Open WebUI 연동 고도화
 - OpenClaw 자체 호스팅 인프라(WSL2/GCP) 구축 및 메신저 기반 멀티유저 접근 환경 구성
 - exo를 활용한 M1 MacBook + Raspberry Pi 이종 디바이스 클러스터링 실험
